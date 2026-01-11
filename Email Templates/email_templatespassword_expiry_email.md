@@ -14,10 +14,9 @@ urgency and authority to manipulate users into clicking malicious links.
 **Subject:** Security Alert: Password Expiry Notification  
 
 **Envelope Sender (Simulation Only):**
-googlepley-noreply@google.com
+no-reply@system-alerts.com
 
-yaml
-Copy code
+
 
 > Note: This sender address was used strictly within a **local testing environment**
 > for educational purposes. No real emails were delivered to external users, and no
@@ -38,8 +37,6 @@ Please verify your account immediately using the link below:
 
 Failure to act may result in temporary account suspension.
 
-yaml
-Copy code
 
 ---
 
@@ -64,4 +61,5 @@ These techniques are commonly observed in real-world phishing attacks.
 - This template was used only in a **controlled local environment**
 - No real credentials were collected
 - No real Google services were accessed
+
 - The purpose was **security awareness and education**, not exploitation
